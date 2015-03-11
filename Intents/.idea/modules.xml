@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Intents.iml" filepath="$PROJECT_DIR$/Intents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Intents/SourceFiles/Skeletons/IntentsLab/IntentsLab.iml" filepath="$PROJECT_DIR$/Intents/SourceFiles/Skeletons/IntentsLab/IntentsLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Intents/SourceFiles/TestCases/IntentsLabTest/IntentsLabTest.iml" filepath="$PROJECT_DIR$/Intents/SourceFiles/TestCases/IntentsLabTest/IntentsLabTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Intents/SourceFiles/Skeletons/MyBrowser/MyBrowser.iml" filepath="$PROJECT_DIR$/Intents/SourceFiles/Skeletons/MyBrowser/MyBrowser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntentsLabSubmit/MyBrowser/MyBrowser.iml" filepath="$PROJECT_DIR$/IntentsLabSubmit/MyBrowser/MyBrowser.iml" />
+    </modules>
+  </component>
+</project>
+

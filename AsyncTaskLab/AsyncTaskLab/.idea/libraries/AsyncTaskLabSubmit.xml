@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AsyncTaskLabSubmit">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AsyncTaskLabSubmit.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
